@@ -1,51 +1,49 @@
 {
-  "name": "grunt-patternprimer",
-  "description": "Jeremy Keiths pattern primer on steroids",
-  "version": "0.1.0",
-  "homepage": "https://github.com/asciidisco/grunt-patternprimer",
-  "author": {
-    "name": "Sebastian Golasch",
-    "url": "http://asciidisco.com/"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/asciidisco/grunt-patternprimer.git"
-  },
-  "bugs": {
-    "url": "https://github.com/asciidisco/grunt-patternprimer/issues"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/asciidisco/grunt-patternprimer/blob/master/LICENSE-MIT"
-    }
-  ],
-  "main": "Gruntfile.js",
-  "engines": {
-    "node": ">= 0.8.0"
-  },
-  "scripts": {
-    "test": "grunt test"
-  },
-  "dependencies": {
-    "connect": "~2.7.11"
-  },
-  "devDependencies": {
-    "grunt-contrib-jshint": "~0.9.2",
-    "grunt-contrib-nodeunit": "~0.3.3",
-    "grunt": "~0.4.1",
-    "time-grunt": "~0.3.1",
-    "load-grunt-tasks": "~0.4.0",
-    "grunt-contrib-clean": "~0.5.0",
-    "grunt-contrib-compass": "~0.7.2",
-    "grunt-contrib-copy": "~0.5.0"
-  },
-  "peerDependencies": {
-    "grunt": "~0.4.1"
-  },
-  "keywords": [
-    "gruntplugin",
-    "patternprimer",
-    "connect"
-  ]
+    "name": "grunt-patternprimer",
+    "description": "Jeremy Keiths pattern primer on steroids",
+    "version": "0.1.0",
+    "homepage": "https://github.com/stevebritton/grunt-patternprimer",
+    "author": {
+        "name": "Sebastian Golasch",
+        "url": "http://asciidisco.com/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/stevebritton/grunt-patternprimer.git"
+    },
+    "bugs": {
+        "url": "https://github.com/stevebritton/grunt-patternprimer/issues"
+    },
+    "licenses": [{
+        "type": "MIT",
+        "url": "https://github.com/asciidisco/grunt-patternprimer/blob/master/LICENSE-MIT"
+    }],
+    "main": "Gruntfile.js",
+    "engines": {
+        "node": ">= 0.8.0"
+    },
+    "scripts": {
+        "test": "grunt test"
+    },
+    "dependencies": {
+        "connect": "~2.7.11"
+    },
+    "devDependencies": {
+        "grunt-contrib-jshint": "~0.9.2",
+        "grunt-contrib-nodeunit": "~0.3.3",
+        "grunt": "~0.4.1",
+        "time-grunt": "~0.3.1",
+        "load-grunt-tasks": "~0.4.0",
+        "grunt-contrib-clean": "~0.5.0",
+        "grunt-contrib-compass": "~0.7.2",
+        "grunt-contrib-copy": "~0.5.0"
+    },
+    "peerDependencies": {
+        "grunt": "~0.4.1"
+    },
+    "keywords": [
+        "gruntplugin",
+        "patternprimer",
+        "connect"
+    ]
 }
