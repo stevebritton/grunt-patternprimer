@@ -1,4 +1,6 @@
-# grunt-patternprimer v0.1.0 [![Build Status](https://travis-ci.org/asciidisco/grunt-patternprimer.png?branch=master)](https://travis-ci.org/asciidisco/grunt-patternprimer) [![devDependency Status](https://david-dm.org/stevebritton/grunt-patternprimer/dev-status.svg?theme=shields.io)](https://david-dm.org/stevebritton/grunt-patternprimer#info=devDependencies)
+# grunt-patternprimer v0.1.0 
+
+[![Build Status](https://travis-ci.org/asciidisco/grunt-patternprimer.png?branch=master)](https://travis-ci.org/asciidisco/grunt-patternprimer) [![devDependency Status](https://david-dm.org/stevebritton/grunt-patternprimer/dev-status.svg?theme=shields.io)](https://david-dm.org/stevebritton/grunt-patternprimer#info=devDependencies)
 
 > Grunt enabled port of [adactios](https://github.com/adactio) [Pattern-Primer](https://github.com/adactio/Pattern-Primer)
 
